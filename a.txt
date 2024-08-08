@@ -1,1 +1,4 @@
 sss
+system.out.
+system.out.print
+system.out.println()
